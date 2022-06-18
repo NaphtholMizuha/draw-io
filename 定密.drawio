@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-18T06:19:49.191Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.5 Safari/605.1.15" etag="UMKHa9VUrjM9pQxlvjXV" version="20.0.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-18T06:44:22.285Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.5 Safari/605.1.15" etag="1jLaoYi_UXPk1SVRiev7" version="20.0.1" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="647" dy="383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -147,10 +147,180 @@
     </mxGraphModel>
   </diagram>
   <diagram id="P1OdvUp5-LORb94-ANSc" name="Page-2">
-    <mxGraphModel dx="938" dy="555" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="647" dy="383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="uTWmo9H8KdN7JsbTeGmh-7" value="开始" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;sketch=0;fontFamily=Noto Serif SC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BSC;fontSize=12;strokeColor=default;fillColor=default;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="380" y="10" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uTWmo9H8KdN7JsbTeGmh-22" value="结束" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;sketch=0;fontFamily=Noto Serif SC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BSC;fontSize=12;strokeColor=default;fillColor=default;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="380" y="500" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uTWmo9H8KdN7JsbTeGmh-37" value="主动授权" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Noto Serif SC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BSC;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;verticalAlign=top;align=center;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="1">
+          <mxGeometry x="180" y="40" width="200" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="uTWmo9H8KdN7JsbTeGmh-38" value="依申请授权" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Noto Serif SC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BSC;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="420" y="40" width="200" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="uTWmo9H8KdN7JsbTeGmh-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Noto Serif SC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BSC;fontSize=12;" edge="1" parent="1" source="uTWmo9H8KdN7JsbTeGmh-40" target="uTWmo9H8KdN7JsbTeGmh-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uTWmo9H8KdN7JsbTeGmh-40" value="授权机关选定被授权机关、单位" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Noto Serif SC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BSC;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="240" y="90" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uTWmo9H8KdN7JsbTeGmh-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Noto Serif SC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BSC;fontSize=12;" edge="1" parent="1" source="uTWmo9H8KdN7JsbTeGmh-7" target="uTWmo9H8KdN7JsbTeGmh-40">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="70" />
+              <mxPoint x="280" y="70" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uTWmo9H8KdN7JsbTeGmh-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Noto Serif SC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BSC;fontSize=12;" edge="1" parent="1" source="uTWmo9H8KdN7JsbTeGmh-41" target="uTWmo9H8KdN7JsbTeGmh-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uTWmo9H8KdN7JsbTeGmh-41" value="授权机关选定定密事项" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Noto Serif SC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BSC;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="240" y="150" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uTWmo9H8KdN7JsbTeGmh-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Noto Serif SC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BSC;fontSize=12;" edge="1" parent="1" source="uTWmo9H8KdN7JsbTeGmh-42" target="uTWmo9H8KdN7JsbTeGmh-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uTWmo9H8KdN7JsbTeGmh-42" value="系统分析并对此次授权是否合适作出建议" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontFamily=Noto Serif SC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BSC;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="220" y="210" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uTWmo9H8KdN7JsbTeGmh-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Noto Serif SC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BSC;fontSize=12;" edge="1" parent="1" source="uTWmo9H8KdN7JsbTeGmh-43">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uTWmo9H8KdN7JsbTeGmh-43" value="授权完成，系统告知&lt;br&gt;授权主体与客体" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Noto Serif SC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BSC;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="340" y="400" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uTWmo9H8KdN7JsbTeGmh-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Noto Serif SC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BSC;fontSize=12;" edge="1" parent="1" source="uTWmo9H8KdN7JsbTeGmh-44" target="uTWmo9H8KdN7JsbTeGmh-43">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="280" y="360" />
+              <mxPoint x="400" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uTWmo9H8KdN7JsbTeGmh-72" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Noto Serif SC;labelBackgroundColor=none;" vertex="1" connectable="0" parent="uTWmo9H8KdN7JsbTeGmh-48">
+          <mxGeometry x="-0.5635" y="-2" relative="1" as="geometry">
+            <mxPoint x="11" y="-12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uTWmo9H8KdN7JsbTeGmh-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Noto Serif SC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BSC;fontSize=12;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uTWmo9H8KdN7JsbTeGmh-44" target="uTWmo9H8KdN7JsbTeGmh-55">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="80" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="160" y="310" />
+              <mxPoint x="160" y="425" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uTWmo9H8KdN7JsbTeGmh-74" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Noto Serif SC;labelBackgroundColor=none;" vertex="1" connectable="0" parent="uTWmo9H8KdN7JsbTeGmh-49">
+          <mxGeometry x="-0.934" y="1" relative="1" as="geometry">
+            <mxPoint x="-2" y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uTWmo9H8KdN7JsbTeGmh-44" value="授权机关参考建议后&lt;br&gt;继续授权？" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Noto Serif SC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BSC;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="220" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uTWmo9H8KdN7JsbTeGmh-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Noto Serif SC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BSC;fontSize=12;" edge="1" parent="1" source="uTWmo9H8KdN7JsbTeGmh-50" target="uTWmo9H8KdN7JsbTeGmh-51">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="640" y="110" />
+              <mxPoint x="640" y="425" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uTWmo9H8KdN7JsbTeGmh-69" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Noto Serif SC;labelBackgroundColor=none;" vertex="1" connectable="0" parent="uTWmo9H8KdN7JsbTeGmh-60">
+          <mxGeometry x="-0.906" y="-2" relative="1" as="geometry">
+            <mxPoint x="10" y="-12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uTWmo9H8KdN7JsbTeGmh-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Noto Serif SC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BSC;fontSize=12;" edge="1" parent="1" source="uTWmo9H8KdN7JsbTeGmh-50" target="uTWmo9H8KdN7JsbTeGmh-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uTWmo9H8KdN7JsbTeGmh-70" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Noto Serif SC;labelBackgroundColor=none;" vertex="1" connectable="0" parent="uTWmo9H8KdN7JsbTeGmh-66">
+          <mxGeometry x="0.0857" y="-1" relative="1" as="geometry">
+            <mxPoint x="19" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uTWmo9H8KdN7JsbTeGmh-50" value="系统检测被授权机关“经常产生国家秘密”？" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Noto Serif SC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BSC;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="460" y="85" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uTWmo9H8KdN7JsbTeGmh-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Noto Serif SC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BSC;fontSize=12;" edge="1" parent="1" source="uTWmo9H8KdN7JsbTeGmh-51">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="470" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="545" y="470" />
+              <mxPoint x="400" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uTWmo9H8KdN7JsbTeGmh-51" value="申请授权被拒绝" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Noto Serif SC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BSC;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="500" y="410" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uTWmo9H8KdN7JsbTeGmh-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Noto Serif SC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BSC;fontSize=12;" edge="1" parent="1" source="uTWmo9H8KdN7JsbTeGmh-52" target="uTWmo9H8KdN7JsbTeGmh-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uTWmo9H8KdN7JsbTeGmh-52" value="系统自动查找最合适的授权机关" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Noto Serif SC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BSC;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="480" y="150" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uTWmo9H8KdN7JsbTeGmh-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Noto Serif SC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BSC;fontSize=12;" edge="1" parent="1" source="uTWmo9H8KdN7JsbTeGmh-53" target="uTWmo9H8KdN7JsbTeGmh-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uTWmo9H8KdN7JsbTeGmh-53" value="被授权机关在系统中补充定密授权申请审批表，系统自动补充附件" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Noto Serif SC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BSC;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="457.5" y="220" width="125" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uTWmo9H8KdN7JsbTeGmh-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Noto Serif SC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BSC;fontSize=12;" edge="1" parent="1" source="uTWmo9H8KdN7JsbTeGmh-55">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="470" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="260" y="470" />
+              <mxPoint x="400" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uTWmo9H8KdN7JsbTeGmh-55" value="主动授权中止" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Noto Serif SC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BSC;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="220" y="410" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uTWmo9H8KdN7JsbTeGmh-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Noto Serif SC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BSC;fontSize=12;" edge="1" parent="1" source="uTWmo9H8KdN7JsbTeGmh-7" target="uTWmo9H8KdN7JsbTeGmh-50">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="70" />
+              <mxPoint x="520" y="70" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uTWmo9H8KdN7JsbTeGmh-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Noto Serif SC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BSC;fontSize=12;" edge="1" parent="1" source="uTWmo9H8KdN7JsbTeGmh-61" target="uTWmo9H8KdN7JsbTeGmh-43">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="520" y="360" />
+              <mxPoint x="400" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uTWmo9H8KdN7JsbTeGmh-75" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Noto Serif SC;labelBackgroundColor=none;" vertex="1" connectable="0" parent="uTWmo9H8KdN7JsbTeGmh-62">
+          <mxGeometry x="-0.8441" y="-1" relative="1" as="geometry">
+            <mxPoint x="-19" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uTWmo9H8KdN7JsbTeGmh-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Noto Serif SC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BSC;fontSize=12;" edge="1" parent="1" source="uTWmo9H8KdN7JsbTeGmh-61">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uTWmo9H8KdN7JsbTeGmh-76" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Noto Serif SC;labelBackgroundColor=none;" vertex="1" connectable="0" parent="uTWmo9H8KdN7JsbTeGmh-65">
+          <mxGeometry x="-0.0839" y="2" relative="1" as="geometry">
+            <mxPoint y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uTWmo9H8KdN7JsbTeGmh-61" value="授权机关审批通过？" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Noto Serif SC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BSC;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="460" y="285" width="120" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
